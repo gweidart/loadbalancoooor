@@ -1,4 +1,4 @@
-# Loadbalanceeeer
+# Loadbalancoooor
 
 PoC local JSON-RPC load-balancer with opt-in anonymizer via Tor
 
